@@ -10,6 +10,7 @@ HTTP Request & Response Service
   * Run a new container
 
 ## Endpoints
+default port: *8080*
 
 - `/ip` Returns Origin IP.
 - `/user-agent` Returns user-agent.
